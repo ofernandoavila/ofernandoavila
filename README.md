@@ -1,29 +1,65 @@
-### Habilidades
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+# 👋 Hi, I'm Fernando Ávila  
 
-### Extras
-![](https://aleen42.github.io/badges/src/photoshop.svg)
-![](https://aleen42.github.io/badges/src/illustrator.svg)
-![](https://aleen42.github.io/badges/src/after_effects.svg)
-![](https://aleen42.github.io/badges/src/flash.svg)
-![](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
-![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
+I'm a **Full-Stack Developer** with 5+ years of experience building **web and mobile applications** from end to end.  
+Passionate about **software architecture**, **CI/CD**, and turning ideas into scalable products.
 
-### Social Media
+---
 
-[![Instagram Badge](https://img.shields.io/badge/-@ofernandoavila-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ofernandoavila/)](https://www.instagram.com/ofernandoavila/)
-[![Linkedin Badge](https://img.shields.io/badge/-Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ofernandoavila/)](https://www.linkedin.com/in/ofernandoavila/)
-[![Gmail Badge](https://img.shields.io/badge/-fernandoavilajunior@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandoavilajunior@gmail.com)](mailto:fernandoavilajunior@gmail.com)
+## 🛠️ Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 🚀 About Me
+
+- 🔧 **Hands-on:** I work across back-end, front-end and mobile development  
+- ⚡ **Performance-focused:** I build scalable and optimized applications  
+- 🛠️ **Modernization:** I transform legacy systems into modern solutions  
+- 📈 **Automation:** I create CI/CD pipelines to speed up delivery  
+- 📚 **Continuous Learning:** Always exploring new tools and technologies  
+- 💬 **Knowledge Sharing:** I love mentoring and collaborating with other developers  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ofernandoavila&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofernandoavila&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌍 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofernandoavila)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://ofernandoavila.com)
+[![Email](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fernandoavilajunior@gmail.com)
+
+---
+
+⭐ **If you enjoy any of my projects, consider leaving a star!**  
+It really helps and motivates me to keep building cool stuff. 🚀
+
+
+<div align="center">
+  <a href="https://github.com/ofernandoavila">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ofernandoavila&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofernandoavila&layout=compact&langs_count=7&theme=dracula"/>
+</div>
