@@ -56,10 +56,3 @@ Passionate about **software architecture**, **CI/CD**, and turning ideas into sc
 
 ⭐ **If you enjoy any of my projects, consider leaving a star!**  
 It really helps and motivates me to keep building cool stuff. 🚀
-
-
-<div align="center">
-  <a href="https://github.com/ofernandoavila">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ofernandoavila&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofernandoavila&layout=compact&langs_count=7&theme=dracula"/>
-</div>
