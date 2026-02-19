@@ -38,13 +38,10 @@ Passionate about **software architecture**, **CI/CD**, and turning ideas into sc
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ofernandoavila&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofernandoavila&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-
+## 📊 Stats
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=&preferLogin=false">    
+  <img  alt="ofernandoavila's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ofernandoavila?cardType=level&theme=github-dark&fontFamily=&preferLogin=false" />  
+</a>
 ---
 
 ## 🌍 Connect with Me
