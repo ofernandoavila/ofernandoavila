@@ -42,6 +42,7 @@ Passionate about **software architecture**, **CI/CD**, and turning ideas into sc
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=&preferLogin=false">    
   <img  alt="ofernandoavila's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ofernandoavila?cardType=level&theme=github-dark&fontFamily=&preferLogin=false" />  
 </a>
+
 ---
 
 ## 🌍 Connect with Me
